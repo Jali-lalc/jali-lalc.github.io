@@ -73,4 +73,26 @@ export const applicationSections = [
 
     tone: "warm",
   },
+    {
+    id: "CLBP",
+
+    eyebrow: "Our Story, Vision, and Principles",
+
+    heading: "CLBP",
+
+    paragraphs: [
+      "The following application contains an overview of our story, vision, and principles. Derived from our Community Land and Business plan.",
+    ],
+
+    document: {
+      href: "/documents/applications/CLBP.pdf",
+      title: "Our Story, Vision, and Principles",
+      description:
+        "Download the current CLBP.",
+      downloadName: "CLBP.pdf",
+      // fileSize: "Add file size",
+    },
+
+    tone: "soft",
+  },
 ] as const;

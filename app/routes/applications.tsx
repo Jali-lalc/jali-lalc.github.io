@@ -6,11 +6,11 @@ import { PageHeader } from "~/components/sections/PageHeader";
 
 export function meta({}: Route.MetaArgs) {
   return [
-    { title: "Applications | [Organisation Name]" },
+    { title: "Applications | Jali LALC" },
     {
       name: "description",
       content:
-        "Download application forms from [Organisation Name].",
+        "Download application forms from Jali Local Aboriginal Land Council.",
     },
   ];
 }
