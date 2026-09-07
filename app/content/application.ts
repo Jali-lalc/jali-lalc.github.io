@@ -13,7 +13,7 @@ export const applicationSections = [
     ],
 
     document: {
-      href: "/documents/applications/membership-application.pdf",
+      href: "/documents/applications/membership.pdf",
       title: "Membership application form",
       description:
         "Download the current membership application form.",
@@ -37,7 +37,7 @@ export const applicationSections = [
     ],
 
     document: {
-      href: "/documents/applications/housing-application.pdf",
+      href: "/documents/applications/housing.pdf",
       title: "Housing application form",
       description:
         "Download the current housing application form.",
@@ -62,7 +62,7 @@ export const applicationSections = [
 
     document: {
       href:
-        "/documents/applications/cultural-heritage-application.pdf",
+        "/documents/applications/heritage.pdf",
       title: "Cultural heritage application form",
       description:
         "Download the current cultural heritage application form.",
